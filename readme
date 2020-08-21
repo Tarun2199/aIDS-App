@@ -1,3 +1,5 @@
+version 1.0.0
+
 An Animal Incursion Detection System (aIDS) is a system that monitors activities and issues alert when a suspicious activity is discovered in a farm or village.
 
 Where are we going to use it?
